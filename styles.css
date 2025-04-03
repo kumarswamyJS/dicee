@@ -1,0 +1,45 @@
+#heading{
+  
+  background-color: #504B38;
+  padding: 5px;
+  text-align: center; 
+  padding: 7px;
+  color:#ffffff ;
+  font-style: italic;}
+  
+body{
+  background-color: #B9B28A;
+}
+.toping{
+  color:#000000;
+  font-style: italic;
+  font-size: 1.2rem;
+  text-align: center;
+}
+#sec{
+  padding-top: 5px;
+  color:#000000;
+  font-style: italic;
+  font-size: 2.3rem;
+  text-align: center;
+  font-weight: 700;}
+
+  #grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-align: center;
+    gap: 10px;
+  }
+  .inside{
+    background-color: #efe8c2;
+    border-radius: 5%;
+    font-size: x-large;
+    font-weight: 800;
+    padding-bottom: 20px;
+  }
+  .bottom{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 600;
+    font-style: italic;
+  }
